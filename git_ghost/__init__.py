@@ -100,17 +100,16 @@ def commit(
     """
 
     logger.info("****** Starting git-ghost anon-commit******\n")
-    print(repo_dir)
     repo = git.Repo(repo_dir)
 
-    diffs = repo.index.diff("HEAD")
-    if not diffs:
-        logger.info("No files were changed since last commit. Exiting...")
-        sys.exit(0)
+    #diffs = repo.index.diff("HEAD")
+    #if not diffs:
+    #    logger.info("No files were changed since last commit. Exiting...")
+    #    sys.exit(0)
 
-    if show_diffs:
-        for diff in diffs:
-            logger.info(diff)
+    #if show_diffs:
+    #    for diff in diffs:
+    #        logger.info(diff)
 
     if message_prompt:
         print("\n")
