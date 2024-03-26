@@ -1,7 +1,5 @@
-![Git Ghosts Awesome Pink and BabyBlue impact banner!](brand_graphic/git_ghost_banner_impact_1000.jpg)
+![git_ghost's awesome pink and babyblue banner v2!](artwork/git_ghost_banner_01_1000x250.png)
 
-```
-A small little program i made to protect myself against viral psychotic f**** on the internet from having any power over me.
 
 git-ghost is a Python library and CLI tool engineered for managing multiple Git cloud accounts, particularly when one is a personal account vulnerable to doxing and the others are high-stakes or high-visibility projects. Certain projects can attract significant attention, and hostile actors. 
 
@@ -134,9 +132,9 @@ Chaos has the disadvantage that the randomized output it makes could still be us
 
 # Copyright and Brand Artwork Usage
 
-The git-ghost brand and associated graphics are copyrighted by AX.V.S ©2016. Please see the [Brand Artwork Usage Guidelines](BRANDGRAPHIC.md) for details on how to correctly use the brand assets.
+The git-ghost brand and associated graphics are copyrighted by AX.V.S ©2016. Please see the [Brand Artwork Usage Guidelines](ARTWORK_AND_BRANDING.md) for details on how to correctly use the brand assets.
 
 ---
 Thanks for visiting!
 
-![Git Ghosts Awesome Pink and BabyBlue poster!](brand_graphic/git_ghost_poster_500.jpg)
+![git_ghosts awesome pink and babyblue poster!](artwork/git_ghost_poster_00_800x1000.png)
